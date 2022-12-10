@@ -1,0 +1,44 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black
+}
+
+.webpage{
+    background-color: lightsalmon;
+    margin: auto 100px auto 100px;
+    width: 1180px;
+    
+}
+
+.name{
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+ul p{
+    text-align: center;
+    background-color: aqua;
+    width: 200px;
+    height: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 35px;
+    margin:  auto auto 10px;
+}
+.art1 img{
+    text-align: center;
+    margin: 100px auto 00px 400px;
+}
+.art1 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.art1 a p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 100px auto 00px 400px ;
+    font-weight: bold;
+    margin: auto -50px auto -50px;
+}
